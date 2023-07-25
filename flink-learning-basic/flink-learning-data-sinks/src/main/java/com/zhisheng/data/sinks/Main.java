@@ -18,7 +18,7 @@ import static com.zhisheng.common.constant.PropertiesConstants.METRICS_TOPIC;
 
 /**
  * blog：http://www.54tianzhisheng.cn/
- * 微信公众号：zhisheng
+ *
  */
 public class Main {
     public static void main(String[] args) throws Exception{
